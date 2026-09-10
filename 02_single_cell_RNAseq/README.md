@@ -4,7 +4,7 @@ Code for processing and downstream analysis of the adult oral-region single-cell
 
 Raw and processed data are available through GEO under accession **GSE316974**.
 
-Reference genome: *Nematostella vectensis* jaNemVect1.1 (**GCF_932526225.1**).
+Reference genome: *Nematostella vectensis* jaNemVect1.1 (GCF_932526225.1).
 
 `scRNAseq_processing.R` generates the Seurat object used for downstream analysis.
 
