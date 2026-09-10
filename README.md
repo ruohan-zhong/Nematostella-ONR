@@ -16,6 +16,6 @@ Zhong R, Seidel CW, Klompen AML, Gibson MC
 
 ## Data availability
 
-Single-cell RNA-seq: GEO GSE316974  
-Bulk RNA-seq: GEO GSE316975  
-Additional source and imaging data are available through the Stowers Original Data Repository (ODR).
+- Single-cell RNA-seq: GEO GSE316974  
+- Bulk RNA-seq: GEO GSE316975  
+- Additional source and imaging data are available through the Stowers Original Data Repository (ODR).
