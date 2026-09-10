@@ -1,4 +1,4 @@
-# Nematostella oral nerve ring analysis
+# *Nematostella* oral nerve ring characterization
 
 Analysis code and supporting files for:
 
