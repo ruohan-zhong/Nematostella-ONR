@@ -20,4 +20,5 @@ This repository contains custom analysis and figure-generation code and associat
 
 Single-cell RNA-seq: GEO GSE316974  
 Bulk RNA-seq: GEO GSE316975
+
 Additional source data and imaging data are available through the Stowers Original Data Repository (ODR).
