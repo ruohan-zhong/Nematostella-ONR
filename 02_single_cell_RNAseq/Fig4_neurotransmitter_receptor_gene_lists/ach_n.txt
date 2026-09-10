@@ -1,0 +1,49 @@
+LOC5517143	neuronal acetylcholine receptor subunit alpha-5 isoform X1
+LOC5517206	neuronal acetylcholine receptor subunit alpha-7
+LOC5519008	neuronal acetylcholine receptor subunit alpha-3 isoform X3
+LOC5520438	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+LOC5520437	neuronal acetylcholine receptor subunit beta-3
+LOC5501080	neuronal acetylcholine receptor subunit beta-3 isoform X1
+LOC116612361	neuronal acetylcholine receptor subunit alpha-7-like
+LOC5507594	neuronal acetylcholine receptor subunit alpha-6
+LOC5515576	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC125561105	neuronal acetylcholine receptor subunit alpha-4-like
+LOC5508921	neuronal acetylcholine receptor subunit alpha-10
+LOC5508940	neuronal acetylcholine receptor subunit alpha-10 isoform X3
+LOC5521189	neuronal acetylcholine receptor subunit alpha-10
+LOC5513848	neuronal acetylcholine receptor subunit alpha-10
+LOC5512605	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC5511550	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC116617860	neuronal acetylcholine receptor subunit alpha-7
+LOC5500254	neuronal acetylcholine receptor subunit alpha-7
+LOC5500256	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC5517746	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC5517795	neuronal acetylcholine receptor subunit alpha-7
+LOC5511213	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC5511212	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC5503029	neuronal acetylcholine receptor subunit alpha-7
+LOC116610615	neuronal acetylcholine receptor subunit beta-3-like
+LOC5503033	neuronal acetylcholine receptor subunit alpha-7
+LOC5517688	neuronal acetylcholine receptor subunit alpha-10
+LOC5517622	neuronal acetylcholine receptor subunit alpha-10
+LOC116601410	neuronal acetylcholine receptor subunit alpha-10
+LOC5513989	neuronal acetylcholine receptor subunit alpha-9-like isoform X1
+LOC5519823	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC5519824	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC5519917	neuronal acetylcholine receptor subunit alpha-5
+LOC5501358	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+LOC5522025	neuronal acetylcholine receptor subunit alpha-7 isoform X2
+LOC5521912	neuronal acetylcholine receptor subunit alpha-3 isoform X1
+LOC5522023	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+LOC5513538	neuronal acetylcholine receptor subunit alpha-7
+LOC5519273	neuronal acetylcholine receptor subunit alpha-3
+LOC5510587	neuronal acetylcholine receptor subunit alpha-7
+LOC5508130	neuronal acetylcholine receptor subunit alpha-7
+LOC5516910	neuronal acetylcholine receptor subunit alpha-4 isoform X1
+LOC5520188	neuronal acetylcholine receptor subunit alpha-2 isoform X2
+LOC5513888	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+LOC5513887	neuronal acetylcholine receptor subunit alpha-10
+LOC5510326	neuronal acetylcholine receptor subunit alpha-10-like isoform X1
+LOC5510324	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+LOC5506085	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+LOC5504980	neuronal acetylcholine receptor subunit alpha-10 isoform X1

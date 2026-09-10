@@ -1,0 +1,13 @@
+LOC5511140	substance-P receptor
+LOC5512310	substance-P receptor
+LOC5514875	substance-P receptor
+LOC5512575	substance-P receptor
+LOC5514269	substance-P receptor
+LOC5519713	substance-P receptor isoform X1
+LOC5511964	substance-P receptor
+LOC5519246	substance-P receptor
+LOC5512545	substance-P receptor
+LOC5506913	substance-P receptor
+LOC5522364	substance-P receptor
+LOC5506379	substance-P receptor
+LOC116619740	substance-P receptor-like

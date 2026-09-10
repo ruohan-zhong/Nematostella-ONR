@@ -1,0 +1,24 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+2	LOC5514842	0.275064267352185	13.1105398457584	gamma-aminobutyric acid type B receptor subunit 2-like
+2	LOC5513634	1.32647814910026	50.3856041131105	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+2	LOC5510617	0.154241645244216	12.5964010282776	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+2	LOC5509923	0.251928020565553	13.1105398457584	gamma-aminobutyric acid type B receptor subunit 1 isoform X1
+3	LOC5514842	1.92881355932203	78.9830508474576	gamma-aminobutyric acid type B receptor subunit 2-like
+3	LOC5510617	0.155932203389831	12.2033898305085	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+5	LOC5514842	0.427710843373494	20.4819277108434	gamma-aminobutyric acid type B receptor subunit 2-like
+5	LOC5513634	0.331325301204819	24.6987951807229	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+5	LOC5510617	0.120481927710843	10.8433734939759	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+6	LOC5513634	1.63120567375887	63.8297872340426	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+9	LOC5512325	0.138888888888889	11.1111111111111	uncharacterized protein LOC5512325
+9	LOC5514842	0.208333333333333	12.5	gamma-aminobutyric acid type B receptor subunit 2-like
+9	LOC5513634	0.388888888888889	30.5555555555556	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+13	LOC5510617	0.2	20	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+11	LOC5513634	0.4375	35.4166666666667	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+11	LOC5519734	0.3125	31.25	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+11	LOC5510617	0.1875	18.75	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+11	LOC5509923	0.375	33.3333333333333	gamma-aminobutyric acid type B receptor subunit 1 isoform X1
+12	LOC5513634	1.29166666666667	62.5	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+12	LOC5510617	0.333333333333333	29.1666666666667	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+14	LOC5514842	0.409090909090909	27.2727272727273	gamma-aminobutyric acid type B receptor subunit 2-like
+14	LOC5513634	0.659090909090909	38.6363636363636	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+14	LOC5518727	0.136363636363636	13.6363636363636	gamma-aminobutyric acid type B receptor subunit 2 isoform X1

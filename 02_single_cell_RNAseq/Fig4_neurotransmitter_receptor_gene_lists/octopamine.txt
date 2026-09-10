@@ -1,0 +1,61 @@
+LOC5516330	octopamine receptor beta-2R
+LOC5517185	octopamine receptor 1
+LOC5515914	octopamine receptor 1
+LOC5518321	tyramine/octopamine receptor
+LOC5509132	octopamine receptor beta-1R
+LOC5518346	octopamine receptor beta-2R
+LOC5514342	octopamine receptor
+LOC5516836	octopamine receptor beta-1R
+LOC5509090	octopamine receptor 1
+LOC5504107	octopamine receptor
+LOC5516094	octopamine receptor beta-2R
+LOC5503616	octopamine receptor
+LOC5499530	octopamine receptor
+LOC5505751	octopamine receptor isoform X2
+LOC116617829	octopamine receptor beta-2R-like
+LOC5514606	octopamine receptor Oamb
+LOC5502642	octopamine receptor Oamb isoform X1
+LOC5502646	octopamine receptor
+LOC5506695	octopamine receptor
+LOC5515038	octopamine receptor
+LOC5515071	octopamine receptor beta-1R
+LOC5503803	octopamine receptor
+LOC5521044	octopamine receptor 1
+LOC5507473	octopamine receptor beta-2R
+LOC5515108	octopamine receptor beta-1R
+LOC5509249	octopamine receptor 1
+LOC5507000	octopamine receptor beta-2R
+LOC5520836	octopamine receptor
+LOC5520786	octopamine receptor 1
+LOC5513029	octopamine receptor beta-2R
+LOC5518988	octopamine receptor Oamb
+LOC116615419	octopamine receptor beta-1R
+LOC5508236	octopamine receptor beta-3R
+LOC125568323	octopamine receptor Oamb-like
+LOC5510691	octopamine receptor beta-2R
+LOC5505872	octopamine receptor 1
+LOC116603138	octopamine receptor beta-2R-like
+LOC5519307	octopamine receptor beta-3R
+LOC5517268	octopamine receptor
+LOC5517313	octopamine receptor
+LOC5507087	octopamine receptor
+LOC5515474	octopamine receptor 1
+LOC5515416	tyramine/octopamine receptor
+LOC5505432	octopamine receptor beta-1R
+LOC5506842	octopamine receptor
+LOC5511181	octopamine receptor beta-2R
+LOC116615653	octopamine receptor beta-2R
+LOC5504387	octopamine receptor 1
+LOC5508313	octopamine receptor beta-1R
+LOC5505151	octopamine receptor 1
+LOC5510879	octopamine receptor 1
+LOC5519413	octopamine receptor beta-3R
+LOC116614385	octopamine receptor beta-1R-like
+LOC116617044	octopamine receptor beta-2R-like
+LOC5502866	octopamine receptor 1
+LOC5522218	octopamine receptor beta-3R
+LOC5511362	octopamine receptor 1
+LOC5511358	octopamine receptor
+LOC116616831	octopamine receptor beta-2R
+LOC5506078	octopamine receptor beta-1R
+LOC5503201	octopamine receptor 1

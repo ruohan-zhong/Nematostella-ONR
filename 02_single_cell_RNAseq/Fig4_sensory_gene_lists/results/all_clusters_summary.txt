@@ -1,0 +1,7 @@
+GeneList	Cluster_2	Cluster_3	Cluster_5	Cluster_6	Cluster_9	Cluster_13	Cluster_11	Cluster_12	Cluster_14	Total
+ASIC	1	1	1	1	5	1	5	1	2	18
+CFAP	4	4	1	1	14	16	5	3	4	52
+DNAH	3	7	0	0	10	5	1	2	5	33
+Opsin	0	1	0	2	2	0	1	5	0	11
+RSP	0	3	0	0	4	3	0	0	0	10
+TRP	3	4	3	1	6	5	5	5	5	37

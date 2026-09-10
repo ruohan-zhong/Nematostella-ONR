@@ -1,0 +1,5 @@
+LOC5516328	muscarinic acetylcholine receptor M4
+LOC5514210	muscarinic acetylcholine receptor M3
+LOC5507470	muscarinic acetylcholine receptor M4
+LOC5508222	muscarinic acetylcholine receptor M4
+LOC5510002	muscarinic acetylcholine receptor M3

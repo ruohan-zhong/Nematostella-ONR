@@ -1,0 +1,14 @@
+LOC5518769	metabotropic glutamate receptor 2
+LOC5502704	metabotropic glutamate receptor 2
+LOC5504773	metabotropic glutamate receptor 2
+LOC5518217	metabotropic glutamate receptor 3
+LOC5514718	metabotropic glutamate receptor 3
+LOC5519820	metabotropic glutamate receptor 3 isoform X1
+LOC5506645	metabotropic glutamate receptor 3 isoform X1
+LOC5513085	metabotropic glutamate receptor 3 isoform X2
+LOC5501258	metabotropic glutamate receptor 3-like
+LOC5512596	metabotropic glutamate receptor 4
+LOC5519331	metabotropic glutamate receptor 4
+LOC116612347	metabotropic glutamate receptor 4
+LOC5520923	metabotropic glutamate receptor 4 isoform X2
+LOC5510322	metabotropic glutamate receptor 5

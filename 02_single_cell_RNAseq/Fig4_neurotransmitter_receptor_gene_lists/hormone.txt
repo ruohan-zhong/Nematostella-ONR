@@ -1,0 +1,44 @@
+LOC5516340	follicle-stimulating hormone receptor isoform X1
+LOC116603957	probable glycoprotein hormone G-protein coupled receptor isoform X3
+LOC5520478	probable glycoprotein hormone G-protein coupled receptor
+LOC5520473	lutropin-choriogonadotropic hormone receptor
+LOC116603712	melanocyte-stimulating hormone receptor
+LOC116603713	adrenocorticotropic hormone receptor
+LOC125556784	probable glycoprotein hormone G-protein coupled receptor
+LOC5517463	adrenocorticotropic hormone receptor
+LOC5500707	lutropin-choriogonadotropic hormone receptor
+LOC125563061	melanocyte-stimulating hormone receptor-like
+LOC5518303	follicle-stimulating hormone receptor
+LOC5514862	growth hormone secretagogue receptor type 1
+LOC5521158	melanocyte-stimulating hormone receptor
+LOC5521705	probable glycoprotein hormone G-protein coupled receptor
+LOC125560932	adrenocorticotropic hormone receptor-like
+LOC5508889	adrenocorticotropic hormone receptor
+LOC116613847	melanocyte-stimulating hormone receptor
+LOC5507625	melanocyte-stimulating hormone receptor
+LOC116617805	melanocyte-stimulating hormone receptor
+LOC5510531	melanocyte-stimulating hormone receptor
+LOC5514607	adrenocorticotropic hormone receptor
+LOC125568118	melanocyte-stimulating hormone receptor-like
+LOC116604117	adrenocorticotropic hormone receptor-like
+LOC5515179	lutropin-choriogonadotropic hormone receptor isoform X1
+LOC5520840	melanocyte-stimulating hormone receptor
+LOC5511885	adrenocorticotropic hormone receptor
+LOC116601924	lutropin-choriogonadotropic hormone receptor
+LOC5510591	adrenocorticotropic hormone receptor
+LOC5510592	adrenocorticotropic hormone receptor
+LOC116617238	adrenocorticotropic hormone receptor-like
+LOC5510610	orphan steroid hormone receptor 2 isoform X2
+LOC5509430	adrenocorticotropic hormone receptor
+LOC116602051	melanocyte-stimulating hormone receptor
+LOC116602123	melanocyte-stimulating hormone receptor
+LOC5511733	melanocyte-stimulating hormone receptor
+LOC5508425	melanocyte-stimulating hormone receptor
+LOC5508432	melanocyte-stimulating hormone receptor
+LOC5508460	melanocyte-stimulating hormone receptor
+LOC5501804	melanocyte-stimulating hormone receptor
+LOC5520248	melanocyte-stimulating hormone receptor
+LOC125559111	melanocyte-stimulating hormone receptor-like
+LOC5517991	adrenocorticotropic hormone receptor
+LOC5513794	adrenocorticotropic hormone receptor
+LOC5513879	adrenocorticotropic hormone receptor

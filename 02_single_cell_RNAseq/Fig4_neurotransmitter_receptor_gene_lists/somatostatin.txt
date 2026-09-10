@@ -1,0 +1,23 @@
+LOC5521281	somatostatin receptor type 3
+LOC5510026	somatostatin receptor type 2
+LOC5506171	somatostatin receptor type 5 isoform X1
+LOC5518734	somatostatin receptor type 2
+LOC5517829	somatostatin receptor type 5
+LOC5508706	somatostatin receptor type 4
+LOC5510398	somatostatin receptor type 5
+LOC5516014	somatostatin receptor type 2
+LOC5515272	somatostatin receptor type 5
+LOC116603158	somatostatin receptor type 4
+LOC5515338	somatostatin receptor type 5
+LOC125572128	somatostatin receptor type 2-like
+LOC5510204	somatostatin receptor type 2
+LOC5522080	somatostatin receptor type 4
+LOC116620800	somatostatin receptor type 1
+LOC116613551	somatostatin receptor type 4
+LOC116613535	somatostatin receptor type 4
+LOC125573788	somatostatin receptor type 2-like
+LOC116605523	somatostatin receptor type 2-like
+LOC116602092	somatostatin receptor type 2-like
+LOC5510106	somatostatin receptor type 5 isoform X2
+LOC5510102	somatostatin receptor type 5
+LOC116615537	somatostatin receptor type 5

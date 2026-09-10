@@ -1,0 +1,56 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+2	LOC5509078	0.146529562982005	11.0539845758355	gamma-aminobutyric acid receptor subunit beta-3
+2	LOC5508437	0.231362467866324	13.6246786632391	gamma-aminobutyric acid receptor subunit beta-1
+2	LOC5503195	0.213367609254499	15.1670951156812	gamma-aminobutyric acid receptor subunit beta-1 isoform X2
+3	LOC5519984	0.298305084745763	24.406779661017	gamma-aminobutyric acid receptor subunit beta-2
+3	LOC5510742	0.796610169491525	33.2203389830508	glycine receptor subunit alpha-2 isoform X1
+3	LOC5512452	0.105084745762712	10.5084745762712	gamma-aminobutyric acid receptor alpha-like isoform X1
+5	LOC5509788	0.813253012048193	37.9518072289157	gamma-aminobutyric acid receptor subunit beta isoform X1
+5	LOC5517176	0.313253012048193	20.4819277108434	gamma-aminobutyric acid receptor subunit beta-3 isoform X1
+5	LOC5508933	0.36144578313253	21.0843373493976	gamma-aminobutyric acid receptor subunit beta-4
+5	LOC5500758	0.331325301204819	22.289156626506	gamma-aminobutyric acid receptor subunit beta-4 isoform X1
+5	LOC5509078	0.168674698795181	13.2530120481928	gamma-aminobutyric acid receptor subunit beta-3
+5	LOC5519984	0.487951807228916	19.2771084337349	gamma-aminobutyric acid receptor subunit beta-2
+5	LOC5515009	0.204819277108434	16.8674698795181	gamma-aminobutyric acid receptor alpha-like isoform X2
+5	LOC5515006	0.41566265060241	27.710843373494	gamma-aminobutyric acid receptor subunit beta-2
+5	LOC5515003	0.433734939759036	27.710843373494	gamma-aminobutyric acid receptor subunit gamma-3 isoform X2
+5	LOC5513310	0.156626506024096	11.4457831325301	gamma-aminobutyric acid receptor subunit pi
+5	LOC5510742	0.487951807228916	28.3132530120482	glycine receptor subunit alpha-2 isoform X1
+5	LOC5505184	1.07831325301205	41.566265060241	glycine receptor subunit alphaZ1-like isoform X1
+5	LOC5512189	0.192771084337349	18.0722891566265	glycine receptor subunit alpha-2
+5	LOC5508437	1.10843373493976	38.5542168674699	gamma-aminobutyric acid receptor subunit beta-1
+5	LOC5510796	0.283132530120482	10.2409638554217	gamma-aminobutyric acid receptor subunit beta-1 isoform X1
+5	LOC5503195	0.246987951807229	13.855421686747	gamma-aminobutyric acid receptor subunit beta-1 isoform X2
+6	LOC5517176	0.546099290780142	43.2624113475177	gamma-aminobutyric acid receptor subunit beta-3 isoform X1
+6	LOC5500758	0.170212765957447	13.4751773049645	gamma-aminobutyric acid receptor subunit beta-4 isoform X1
+6	LOC5509078	1.36170212765957	56.0283687943262	gamma-aminobutyric acid receptor subunit beta-3
+6	LOC5515009	0.382978723404255	34.0425531914894	gamma-aminobutyric acid receptor alpha-like isoform X2
+6	LOC5515006	0.794326241134752	56.7375886524823	gamma-aminobutyric acid receptor subunit beta-2
+6	LOC5515005	0.517730496453901	39.7163120567376	gamma-aminobutyric acid receptor subunit beta-like
+6	LOC5515003	2.18439716312057	61.7021276595745	gamma-aminobutyric acid receptor subunit gamma-3 isoform X2
+6	LOC5513310	0.780141843971631	56.0283687943262	gamma-aminobutyric acid receptor subunit pi
+6	LOC5510742	0.177304964539007	16.3120567375887	glycine receptor subunit alpha-2 isoform X1
+6	LOC5508437	0.560283687943262	29.7872340425532	gamma-aminobutyric acid receptor subunit beta-1
+6	LOC5510796	0.375886524822695	28.3687943262411	gamma-aminobutyric acid receptor subunit beta-1 isoform X1
+6	LOC5503197	1.12765957446809	57.4468085106383	gamma-aminobutyric acid receptor subunit beta-like isoform X8
+9	LOC5515063	0.166666666666667	16.6666666666667	gamma-aminobutyric acid receptor subunit beta
+9	LOC5505184	0.888888888888889	47.2222222222222	glycine receptor subunit alphaZ1-like isoform X1
+9	LOC5512189	0.180555555555556	13.8888888888889	glycine receptor subunit alpha-2
+9	LOC5512452	0.166666666666667	16.6666666666667	gamma-aminobutyric acid receptor alpha-like isoform X1
+13	LOC5500758	0.177777777777778	13.3333333333333	gamma-aminobutyric acid receptor subunit beta-4 isoform X1
+13	LOC5512620	0.222222222222222	22.2222222222222	glycine receptor subunit alpha-1
+13	LOC5519984	0.155555555555556	13.3333333333333	gamma-aminobutyric acid receptor subunit beta-2
+13	LOC5515009	0.133333333333333	13.3333333333333	gamma-aminobutyric acid receptor alpha-like isoform X2
+13	LOC5515006	0.377777777777778	28.8888888888889	gamma-aminobutyric acid receptor subunit beta-2
+13	LOC5515005	0.533333333333333	35.5555555555556	gamma-aminobutyric acid receptor subunit beta-like
+13	LOC5515063	0.222222222222222	22.2222222222222	gamma-aminobutyric acid receptor subunit beta
+13	LOC5515003	0.133333333333333	11.1111111111111	gamma-aminobutyric acid receptor subunit gamma-3 isoform X2
+13	LOC5513310	0.155555555555556	13.3333333333333	gamma-aminobutyric acid receptor subunit pi
+13	LOC5510742	0.311111111111111	20	glycine receptor subunit alpha-2 isoform X1
+13	LOC5517299	0.155555555555556	13.3333333333333	glycine receptor subunit alpha-4 isoform X1
+13	LOC5510796	1	57.7777777777778	gamma-aminobutyric acid receptor subunit beta-1 isoform X1
+13	LOC5503197	0.311111111111111	13.3333333333333	gamma-aminobutyric acid receptor subunit beta-like isoform X8
+11	LOC5512189	0.354166666666667	33.3333333333333	glycine receptor subunit alpha-2
+12	LOC5509078	0.166666666666667	12.5	gamma-aminobutyric acid receptor subunit beta-3
+14	LOC5519984	0.181818181818182	15.9090909090909	gamma-aminobutyric acid receptor subunit beta-2
+14	LOC5515005	0.113636363636364	11.3636363636364	gamma-aminobutyric acid receptor subunit beta-like

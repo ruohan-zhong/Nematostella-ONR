@@ -1,0 +1,22 @@
+LOC5513056	glutamate receptor 2
+LOC5503771	glutamate receptor 2
+LOC5511254	glutamate receptor 2 isoform X1
+LOC125570199	glutamate receptor 2-like isoform X1
+LOC5513073	glutamate receptor 3 isoform X1
+LOC5503773	glutamate receptor 4
+LOC5500937	glutamate receptor ionotropic, kainate 2
+LOC5518713	glutamate receptor ionotropic, kainate 2 isoform X1
+LOC5518754	glutamate receptor ionotropic, kainate 2 isoform X1
+LOC5513053	glutamate receptor ionotropic, kainate 2 isoform X1
+LOC5503753	glutamate receptor ionotropic, kainate 3
+LOC5521117	glutamate receptor ionotropic, NMDA 1
+LOC116619988	glutamate receptor ionotropic, NMDA 1
+LOC5509088	glutamate receptor ionotropic, NMDA 1
+LOC5520101	glutamate receptor ionotropic, NMDA 1
+LOC116614273	glutamate receptor ionotropic, NMDA 1
+LOC5505712	glutamate receptor ionotropic, NMDA 1
+LOC5516903	glutamate receptor ionotropic, NMDA 1
+LOC5502321	glutamate receptor ionotropic, NMDA 1
+LOC5506976	glutamate receptor ionotropic, NMDA 1
+LOC5508544	glutamate receptor ionotropic, NMDA 3B
+LOC116609232	glutamate receptor ionotropic, NMDA 3B-like

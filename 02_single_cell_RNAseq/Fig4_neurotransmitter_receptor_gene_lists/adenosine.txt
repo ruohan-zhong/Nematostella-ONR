@@ -1,0 +1,56 @@
+LOC116620389	adenosine receptor A2b-like
+LOC5516370	adenosine receptor A3
+LOC5507693	adenosine receptor A2b
+LOC5517914	adenosine receptor A2a
+LOC116604262	adenosine receptor A2a
+LOC116604536	adenosine receptor A1-like
+LOC5525255	adenosine receptor A2a
+LOC5516995	adenosine receptor A1
+LOC5513859	adenosine receptor A1
+LOC116618407	adenosine receptor A3-like
+LOC5506498	adenosine receptor A3 isoform X1
+LOC116618237	adenosine receptor A3-like
+LOC5520044	adenosine receptor A2b
+LOC5520063	adenosine receptor A2a
+LOC116603603	adenosine receptor A1
+LOC5518685	adenosine receptor A3 isoform X1
+LOC5522162	adenosine receptor A1
+LOC5522138	adenosine receptor A3
+LOC5509318	adenosine receptor A2a
+LOC5516559	adenosine receptor A3
+LOC116603681	adenosine receptor A1
+LOC5505986	adenosine receptor A3
+LOC5519898	adenosine receptor A1
+LOC5520964	adenosine receptor A2a
+LOC116605569	adenosine receptor A3-like
+LOC116616636	adenosine receptor A3-like
+LOC116605794	adenosine receptor A2b-like isoform X1
+LOC116619774	adenosine receptor A3-like
+LOC125570300	adenosine receptor A3-like
+LOC5505717	adenosine receptor A3
+LOC5515279	adenosine receptor A3 isoform X2
+LOC5515300	adenosine receptor A2a
+LOC125570093	adenosine receptor A3-like
+LOC116617184	adenosine receptor A2a-like
+LOC116617186	adenosine receptor A2a-like
+LOC5506424	adenosine receptor A2a
+LOC5512179	adenosine receptor A3
+LOC116620703	adenosine receptor A2a
+LOC116604594	adenosine receptor A2a-like
+LOC5505774	adenosine receptor A3
+LOC5500629	adenosine receptor A2a
+LOC5507714	adenosine receptor A1
+LOC125573489	adenosine receptor A3-like
+LOC125573879	adenosine receptor A2b-like
+LOC5517558	adenosine deaminase
+LOC125557462	adenosine receptor A3-like
+LOC5514499	adenosine receptor A3
+LOC5513375	adenosine receptor A2b
+LOC5518539	adenosine receptor A1
+LOC5505883	adenosine receptor A2a
+LOC5516718	adenosine receptor A3
+LOC5504713	adenosine receptor A2a
+LOC5508256	adenosine receptor A1
+LOC5506369	adenosine receptor A2a
+LOC5509870	adenosine receptor A2b
+LOC125560665	adenosine receptor A1-like

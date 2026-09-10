@@ -1,0 +1,37 @@
+LOC5515846	cilia- and flagella-associated protein 100
+LOC116603416	cilia- and flagella-associated protein 119 isoform X1
+LOC116603163	cilia- and flagella-associated protein 157 isoform X1
+LOC5513990	cilia- and flagella-associated protein 161
+LOC5507398	cilia- and flagella-associated protein 20 isoform X1
+LOC116619663	cilia- and flagella-associated protein 206-like isoform X1
+LOC5521313	cilia- and flagella-associated protein 221
+LOC116616157	cilia- and flagella-associated protein 251
+LOC116608386	cilia- and flagella-associated protein 251-like
+LOC5505115	cilia- and flagella-associated protein 298
+LOC5505339	cilia- and flagella-associated protein 300
+LOC5508240	cilia- and flagella-associated protein 36 isoform X2
+LOC5517981	cilia- and flagella-associated protein 410 isoform X1
+LOC5521616	cilia- and flagella-associated protein 418
+LOC5514618	cilia- and flagella-associated protein 43
+LOC5503324	cilia- and flagella-associated protein 44-like isoform X1
+LOC5509925	cilia- and flagella-associated protein 45
+LOC5521400	cilia- and flagella-associated protein 46 isoform X1
+LOC5503974	cilia- and flagella-associated protein 47-like isoform X1
+LOC5520229	cilia- and flagella-associated protein 52
+LOC5507640	cilia- and flagella-associated protein 53
+LOC5520487	cilia- and flagella-associated protein 54 isoform X1
+LOC5507495	cilia- and flagella-associated protein 57
+LOC116607006	cilia- and flagella-associated protein 57
+LOC5514622	cilia- and flagella-associated protein 58
+LOC5508788	cilia- and flagella-associated protein 61 isoform X1
+LOC5513193	cilia- and flagella-associated protein 65
+LOC5513175	cilia- and flagella-associated protein 65
+LOC5516802	cilia- and flagella-associated protein 69 isoform X2
+LOC5521239	cilia- and flagella-associated protein 70
+LOC5522186	cilia- and flagella-associated protein 74 isoform X1
+LOC5515233	cilia- and flagella-associated protein 77
+LOC5518183	cilia- and flagella-associated protein 91
+LOC5512655	cilia- and flagella-associated protein 91
+LOC5505996	cilia- and flagella-associated protein 97
+LOC116619429	cilia- and flagella-associated protein 99 isoform X1
+LOC5499643	cilia- and flagella-associated protein HOATZ isoform X1

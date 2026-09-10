@@ -1,0 +1,34 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+2	LOC5521996	0.280205655526992	24.1645244215938	dynein axonemal heavy chain 3-like isoform X1
+2	LOC5507051	0.131105398457584	11.8251928020566	dynein axonemal heavy chain 5
+2	LOC5516681	0.118251928020566	10.025706940874	dynein axonemal heavy chain 8 isoform X1
+3	LOC5505338	0.111864406779661	10.8474576271186	dynein axonemal heavy chain 2 isoform X1
+3	LOC5496159	0.125423728813559	11.864406779661	dynein axonemal heavy chain 12
+3	LOC5521996	0.413559322033898	34.9152542372881	dynein axonemal heavy chain 3-like isoform X1
+3	LOC5506104	0.227118644067797	20.3389830508475	dynein axonemal heavy chain 3 isoform X1
+3	LOC5507051	0.210169491525424	15.9322033898305	dynein axonemal heavy chain 5
+3	LOC5516681	0.24406779661017	22.7118644067797	dynein axonemal heavy chain 8 isoform X1
+3	LOC5514541	0.11864406779661	10.1694915254237	dynein axonemal heavy chain 1-like isoform X1
+9	LOC5502739	0.194444444444444	15.2777777777778	dynein axonemal heavy chain 6 isoform X1
+9	LOC5517882	0.263888888888889	25	LOW QUALITY PROTEIN: dynein axonemal heavy chain 7
+9	LOC5507284	0.236111111111111	19.4444444444444	dynein axonemal heavy chain 10-like
+9	LOC5505338	0.166666666666667	15.2777777777778	dynein axonemal heavy chain 2 isoform X1
+9	LOC5496159	0.180555555555556	13.8888888888889	dynein axonemal heavy chain 12
+9	LOC5521996	0.75	47.2222222222222	dynein axonemal heavy chain 3-like isoform X1
+9	LOC5506104	0.458333333333333	33.3333333333333	dynein axonemal heavy chain 3 isoform X1
+9	LOC5507051	0.402777777777778	31.9444444444444	dynein axonemal heavy chain 5
+9	LOC5516681	0.5	38.8888888888889	dynein axonemal heavy chain 8 isoform X1
+9	LOC5514541	0.236111111111111	23.6111111111111	dynein axonemal heavy chain 1-like isoform X1
+13	LOC5502739	0.111111111111111	11.1111111111111	dynein axonemal heavy chain 6 isoform X1
+13	LOC5517882	0.266666666666667	22.2222222222222	LOW QUALITY PROTEIN: dynein axonemal heavy chain 7
+13	LOC5505338	0.311111111111111	26.6666666666667	dynein axonemal heavy chain 2 isoform X1
+13	LOC5513873	0.533333333333333	42.2222222222222	dynein axonemal heavy chain 5 isoform X1
+13	LOC5514541	0.155555555555556	15.5555555555556	dynein axonemal heavy chain 1-like isoform X1
+11	LOC5521996	0.166666666666667	16.6666666666667	dynein axonemal heavy chain 3-like isoform X1
+12	LOC5496159	0.104166666666667	10.4166666666667	dynein axonemal heavy chain 12
+12	LOC5507051	0.125	12.5	dynein axonemal heavy chain 5
+14	LOC5502739	0.136363636363636	13.6363636363636	dynein axonemal heavy chain 6 isoform X1
+14	LOC5507284	0.136363636363636	11.3636363636364	dynein axonemal heavy chain 10-like
+14	LOC5506104	0.136363636363636	11.3636363636364	dynein axonemal heavy chain 3 isoform X1
+14	LOC5507051	0.204545454545455	18.1818181818182	dynein axonemal heavy chain 5
+14	LOC5516681	0.204545454545455	15.9090909090909	dynein axonemal heavy chain 8 isoform X1

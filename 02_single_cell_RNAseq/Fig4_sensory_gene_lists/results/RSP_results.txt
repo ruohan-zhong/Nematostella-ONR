@@ -1,0 +1,11 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+3	LOC5517101	0.176271186440678	14.2372881355932	radial spoke head 1 homolog
+3	LOC5519448	0.111864406779661	10.1694915254237	radial spoke head protein 4 homolog A isoform X1
+3	LOC5512844	0.142372881355932	13.8983050847458	radial spoke head protein 3 homolog
+9	LOC5514815	0.208333333333333	16.6666666666667	radial spoke head 1 homolog
+9	LOC116612834	0.111111111111111	11.1111111111111	radial spoke head protein 9 homolog
+9	LOC5519448	0.166666666666667	16.6666666666667	radial spoke head protein 4 homolog A isoform X1
+9	LOC5512844	0.194444444444444	15.2777777777778	radial spoke head protein 3 homolog
+13	LOC5517187	0.466666666666667	42.2222222222222	radial spoke head 1 homolog
+13	LOC5519448	0.244444444444444	22.2222222222222	radial spoke head protein 4 homolog A isoform X1
+13	LOC5512844	0.133333333333333	13.3333333333333	radial spoke head protein 3 homolog

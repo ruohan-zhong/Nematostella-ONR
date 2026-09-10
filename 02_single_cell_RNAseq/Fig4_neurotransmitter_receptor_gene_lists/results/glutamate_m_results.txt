@@ -1,0 +1,6 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+2	LOC5518217	0.143958868894602	11.5681233933162	metabotropic glutamate receptor 3
+3	LOC5519820	0.593220338983051	43.728813559322	metabotropic glutamate receptor 3 isoform X1
+5	LOC5514718	0.150602409638554	12.0481927710843	metabotropic glutamate receptor 3
+11	LOC5518217	0.416666666666667	29.1666666666667	metabotropic glutamate receptor 3
+14	LOC5518217	0.386363636363636	29.5454545454545	metabotropic glutamate receptor 3

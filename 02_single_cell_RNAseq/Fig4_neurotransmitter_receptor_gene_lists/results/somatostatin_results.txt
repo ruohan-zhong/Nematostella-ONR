@@ -1,0 +1,6 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+3	LOC5508706	0.291525423728814	22.7118644067797	somatostatin receptor type 4
+5	LOC5508706	0.150602409638554	12.6506024096386	somatostatin receptor type 4
+11	LOC5515338	0.166666666666667	16.6666666666667	somatostatin receptor type 5
+12	LOC5508706	0.375	27.0833333333333	somatostatin receptor type 4
+12	LOC116615537	0.770833333333333	47.9166666666667	somatostatin receptor type 5

@@ -1,0 +1,85 @@
+LOC5509817	neuropeptide FF receptor 2
+LOC116621189	neuropeptide FF receptor 1
+LOC5510650	neuropeptide FF receptor 2
+LOC5510677	neuropeptide FF receptor 2
+LOC5515950	neuropeptide CCHamide-2 receptor
+LOC5503912	neuropeptide FF receptor 1
+LOC5508918	neuropeptide receptor 22
+LOC5505227	neuropeptide FF receptor 1
+LOC125561041	neuropeptide FF receptor 2-like
+LOC5521275	neuropeptide FF receptor 1
+LOC116619158	neuropeptide SIFamide receptor
+LOC5521850	neuropeptide FF receptor 2
+LOC5497749	neuropeptide Y receptor type 2
+LOC5508482	neuropeptide FF receptor 2
+LOC116621135	neuropeptide Y receptor type 6
+LOC125561218	neuropeptide FF receptor 1-like
+LOC116618410	neuropeptide FF receptor 1-like
+LOC5513633	neuropeptide Y receptor type 2
+LOC5513267	neuropeptide Y receptor type 6
+LOC116604716	neuropeptide FF receptor 2
+LOC116604714	neuropeptide SIFamide receptor
+LOC5514270	neuropeptide FF receptor 2
+LOC5509215	neuropeptide Y receptor type 1 isoform X1
+LOC5511585	neuropeptides B/W receptor type 2 isoform X1
+LOC5519570	neuropeptides capa receptor
+LOC5508851	neuropeptide FF receptor 2 isoform X1
+LOC5511078	neuropeptide S receptor
+LOC5508707	neuropeptide FF receptor 1
+LOC5517595	neuropeptide FF receptor 1
+LOC5517660	neuropeptide F receptor
+LOC5517615	neuropeptide FF receptor 2
+LOC5514160	neuropeptide FF receptor 1
+LOC5511819	neuropeptide Y receptor type 6
+LOC5507349	neuropeptide FF receptor 1
+LOC5514995	neuropeptide FF receptor 1
+LOC5507224	neuropeptide S receptor
+LOC5515217	neuropeptide FF receptor 1
+LOC116620258	neuropeptide FF receptor 2
+LOC116617185	neuropeptide FF receptor 1-like
+LOC5518122	neuropeptide FF receptor 1
+LOC5518175	neuropeptide FF receptor 2
+LOC5518137	neuropeptide SIFamide receptor
+LOC5515462	neuropeptide Y receptor type 1
+LOC5512665	neuropeptide FF receptor 1
+LOC5507897	neuropeptide FF receptor 1 isoform X1
+LOC5507915	neuropeptide FF receptor 1
+LOC5516440	neuropeptide Y receptor type 6
+LOC5516439	neuropeptide FF receptor 2
+LOC5516473	neuropeptide FF receptor 2
+LOC5510202	neuropeptide Y receptor type 2 isoform X1
+LOC5522082	neuropeptide FF receptor 2
+LOC5519166	neuropeptide SIFamide receptor
+LOC5518385	neuropeptide Y receptor type 2
+LOC5520675	neuropeptide receptor 22
+LOC5520125	neuropeptide FF receptor 2
+LOC5520124	neuropeptide FF receptor 2
+LOC5520258	neuropeptides B/W receptor type 2
+LOC5508149	neuropeptide Y receptor type 2 isoform X1
+LOC5506850	neuropeptide Y receptor type 5
+LOC5512800	neuropeptide Y receptor type 2
+LOC116620774	neuropeptide FF receptor 2
+LOC5513472	neuropeptide Y receptor type 1
+LOC5513466	putative neuropeptide Y receptor type 6
+LOC5510012	neuropeptide FF receptor 2
+LOC5502682	neuropeptide FF receptor 2
+LOC5522353	neuropeptide FF receptor 1
+LOC5522223	neuropeptide FF receptor 1
+LOC5522350	neuropeptide Y receptor type 1
+LOC5511387	neuropeptide Y receptor type 2 isoform X2
+LOC5500913	neuropeptide FF receptor 1
+LOC5512920	neuropeptide FF receptor 1
+LOC5506979	neuropeptide FF receptor 2
+LOC5506973	neuropeptide FF receptor 2
+LOC5506271	RYamide receptor
+LOC5509128	RYamide receptor
+LOC116609351	RYamide receptor
+LOC5522235	RYamide receptor
+LOC5517835	RYamide receptor
+LOC5508073	RYamide receptor
+LOC5511693	RYamide receptor
+LOC5507812	RYamide receptor
+LOC125556656	RYamide receptor-like
+LOC5508063	RYamide receptor
+LOC5511389	RYamide receptor isoform X3
+LOC5503448	RYamide receptor

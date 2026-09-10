@@ -1,0 +1,21 @@
+LOC5522279	substance-K receptor
+LOC5514271	substance-K receptor
+LOC5511605	substance-K receptor
+LOC5511583	substance-K receptor
+LOC5514947	substance-K receptor
+LOC116612146	substance-K receptor
+LOC5503865	substance-K receptor
+LOC5516507	substance-K receptor
+LOC5519288	substance-K receptor
+LOC5512523	substance-K receptor
+LOC5505566	substance-K receptor
+LOC5506396	substance-K receptor
+LOC5520134	substance-K receptor
+LOC5513479	substance-K receptor
+LOC5513496	substance-K receptor isoform X2
+LOC116617363	substance-K receptor-like
+LOC5506361	substance-K receptor
+LOC5509853	substance-K receptor isoform X1
+LOC116616887	substance-K receptor-like
+LOC116618332	substance-K receptor-like
+LOC116618319	substance-K receptor-like

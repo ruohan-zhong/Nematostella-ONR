@@ -1,0 +1,25 @@
+LOC5521863	acid-sensing ion channel 2
+LOC5519991	acid-sensing ion channel 1C
+LOC5504116	acid-sensing ion channel 3
+LOC5511556	acid-sensing ion channel 2 isoform X1
+LOC5507550	acid-sensing ion channel 3 isoform X1
+LOC5513120	acid-sensing ion channel 2 isoform X1
+LOC5511089	acid-sensing ion channel 4-B
+LOC5511067	acid-sensing ion channel 3 isoform X3
+LOC5511063	acid-sensing ion channel 1
+LOC5516141	acid-sensing ion channel 1
+LOC5509162	acid-sensing ion channel 4-B
+LOC116616008	acid-sensing ion channel 3 isoform X1
+LOC125563009	acid-sensing ion channel 2-like
+LOC5505651	acid-sensing ion channel 2
+LOC5520912	acid-sensing ion channel 1B
+LOC5520902	acid-sensing ion channel 1B
+LOC5508466	acid-sensing ion channel 2
+LOC5520559	acid-sensing ion channel 2
+LOC5501726	acid-sensing ion channel 3 isoform X1
+LOC125559145	acid-sensing ion channel 1B-like
+LOC5501727	acid-sensing ion channel 1B
+LOC116608938	acid-sensing ion channel 1A isoform X1
+LOC5500141	acid-sensing ion channel 3
+LOC5500140	acid-sensing ion channel 1A
+LOC5504428	acid-sensing ion channel 3

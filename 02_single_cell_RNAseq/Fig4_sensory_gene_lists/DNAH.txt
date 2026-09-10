@@ -1,0 +1,14 @@
+LOC5502739	dynein axonemal heavy chain 6 isoform X1
+LOC5517882	LOW QUALITY PROTEIN: dynein axonemal heavy chain 7
+LOC5514098	dynein axonemal heavy chain 6 isoform X1
+LOC5507284	dynein axonemal heavy chain 10-like
+LOC5502981	dynein axonemal heavy chain 8
+LOC5505338	dynein axonemal heavy chain 2 isoform X1
+LOC5496159	dynein axonemal heavy chain 12
+LOC5521996	dynein axonemal heavy chain 3-like isoform X1
+LOC5506104	dynein axonemal heavy chain 3 isoform X1
+LOC116614473	dynein axonemal heavy chain 5-like
+LOC5507051	dynein axonemal heavy chain 5
+LOC5516681	dynein axonemal heavy chain 8 isoform X1
+LOC5513873	dynein axonemal heavy chain 5 isoform X1
+LOC5514541	dynein axonemal heavy chain 1-like isoform X1

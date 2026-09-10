@@ -1,0 +1,53 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+2	LOC5515846	0.143958868894602	11.8251928020566	cilia- and flagella-associated protein 100
+2	LOC5513175	0.179948586118252	10.025706940874	cilia- and flagella-associated protein 65
+2	LOC5508240	0.123393316195373	11.0539845758355	cilia- and flagella-associated protein 36 isoform X2
+2	LOC5503324	0.125964010282776	10.7969151670951	cilia- and flagella-associated protein 44-like isoform X1
+3	LOC5515846	0.261016949152542	20.6779661016949	cilia- and flagella-associated protein 100
+3	LOC5513175	0.277966101694915	18.6440677966102	cilia- and flagella-associated protein 65
+3	LOC5508240	0.206779661016949	16.6101694915254	cilia- and flagella-associated protein 36 isoform X2
+3	LOC5503324	0.24406779661017	22.7118644067797	cilia- and flagella-associated protein 44-like isoform X1
+5	LOC5508240	0.114457831325301	10.8433734939759	cilia- and flagella-associated protein 36 isoform X2
+6	LOC5508240	0.191489361702128	17.7304964539007	cilia- and flagella-associated protein 36 isoform X2
+9	LOC5507495	0.208333333333333	15.2777777777778	cilia- and flagella-associated protein 57
+9	LOC5515846	0.180555555555556	15.2777777777778	cilia- and flagella-associated protein 100
+9	LOC5516802	0.125	11.1111111111111	cilia- and flagella-associated protein 69 isoform X2
+9	LOC5522186	0.138888888888889	12.5	cilia- and flagella-associated protein 74 isoform X1
+9	LOC5507640	0.25	13.8888888888889	cilia- and flagella-associated protein 53
+9	LOC116619429	0.180555555555556	16.6666666666667	cilia- and flagella-associated protein 99 isoform X1
+9	LOC5514618	0.138888888888889	13.8888888888889	cilia- and flagella-associated protein 43
+9	LOC5521400	0.25	20.8333333333333	cilia- and flagella-associated protein 46 isoform X1
+9	LOC5508240	0.263888888888889	22.2222222222222	cilia- and flagella-associated protein 36 isoform X2
+9	LOC5515233	0.236111111111111	16.6666666666667	cilia- and flagella-associated protein 77
+9	LOC116603163	0.180555555555556	13.8888888888889	cilia- and flagella-associated protein 157 isoform X1
+9	LOC5509925	0.388888888888889	20.8333333333333	cilia- and flagella-associated protein 45
+9	LOC5518183	0.125	12.5	cilia- and flagella-associated protein 91
+9	LOC5503324	0.722222222222222	41.6666666666667	cilia- and flagella-associated protein 44-like isoform X1
+13	LOC5520487	0.266666666666667	24.4444444444444	cilia- and flagella-associated protein 54 isoform X1
+13	LOC5507495	0.111111111111111	11.1111111111111	cilia- and flagella-associated protein 57
+13	LOC5515846	0.111111111111111	11.1111111111111	cilia- and flagella-associated protein 100
+13	LOC5521313	0.311111111111111	28.8888888888889	cilia- and flagella-associated protein 221
+13	LOC5513193	0.111111111111111	11.1111111111111	cilia- and flagella-associated protein 65
+13	LOC5507640	0.133333333333333	11.1111111111111	cilia- and flagella-associated protein 53
+13	LOC5514618	0.155555555555556	13.3333333333333	cilia- and flagella-associated protein 43
+13	LOC5514622	0.155555555555556	11.1111111111111	cilia- and flagella-associated protein 58
+13	LOC5521400	0.155555555555556	15.5555555555556	cilia- and flagella-associated protein 46 isoform X1
+13	LOC5508240	0.155555555555556	15.5555555555556	cilia- and flagella-associated protein 36 isoform X2
+13	LOC5515233	0.2	13.3333333333333	cilia- and flagella-associated protein 77
+13	LOC116603163	0.2	17.7777777777778	cilia- and flagella-associated protein 157 isoform X1
+13	LOC5509925	0.311111111111111	24.4444444444444	cilia- and flagella-associated protein 45
+13	LOC5503324	0.488888888888889	37.7777777777778	cilia- and flagella-associated protein 44-like isoform X1
+13	LOC5520229	0.177777777777778	17.7777777777778	cilia- and flagella-associated protein 52
+13	LOC5503974	0.111111111111111	11.1111111111111	cilia- and flagella-associated protein 47-like isoform X1
+11	LOC5515846	0.166666666666667	14.5833333333333	cilia- and flagella-associated protein 100
+11	LOC5521313	0.166666666666667	16.6666666666667	cilia- and flagella-associated protein 221
+11	LOC5513175	0.958333333333333	47.9166666666667	cilia- and flagella-associated protein 65
+11	LOC5508240	0.25	22.9166666666667	cilia- and flagella-associated protein 36 isoform X2
+11	LOC5509925	0.229166666666667	18.75	cilia- and flagella-associated protein 45
+12	LOC5513175	0.583333333333333	29.1666666666667	cilia- and flagella-associated protein 65
+12	LOC5508240	0.1875	14.5833333333333	cilia- and flagella-associated protein 36 isoform X2
+12	LOC5509925	0.145833333333333	12.5	cilia- and flagella-associated protein 45
+14	LOC5515846	0.181818181818182	18.1818181818182	cilia- and flagella-associated protein 100
+14	LOC5508240	0.340909090909091	27.2727272727273	cilia- and flagella-associated protein 36 isoform X2
+14	LOC5509925	0.159090909090909	13.6363636363636	cilia- and flagella-associated protein 45
+14	LOC5503324	0.272727272727273	18.1818181818182	cilia- and flagella-associated protein 44-like isoform X1

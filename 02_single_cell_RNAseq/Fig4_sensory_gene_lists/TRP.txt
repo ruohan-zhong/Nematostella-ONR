@@ -1,0 +1,37 @@
+LOC116620364	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC125572225	transient receptor potential cation channel subfamily A member 1-like
+LOC5509806	transient receptor potential cation channel subfamily A member 1
+LOC116602991	transient receptor potential cation channel subfamily A member 1
+LOC5519048	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC5517341	short transient receptor potential channel 4 isoform X2
+LOC5500864	transient receptor potential cation channel subfamily M member-like 2 isoform X2
+LOC5504370	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC116603594	transient receptor potential cation channel subfamily A member 1 isoform X2
+LOC5510955	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC5519943	transient receptor potential cation channel subfamily M member 3 isoform X1
+LOC5514180	transient receptor potential cation channel subfamily A member 1-like isoform X1
+LOC5521445	transient receptor potential cation channel subfamily V member 5
+LOC5521447	short transient receptor potential channel 3 isoform X1
+LOC5508618	transient receptor potential cation channel subfamily V member 6
+LOC5519861	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC5510729	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC116617878	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC5506040	transient receptor potential cation channel subfamily A member 1
+LOC5510613	short transient receptor potential channel 4-associated protein
+LOC5502080	short transient receptor potential channel 5 isoform X1
+LOC5502079	short transient receptor potential channel 5
+LOC116617900	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC5508474	transient receptor potential cation channel subfamily A member 1
+LOC5520591	short transient receptor potential channel 3
+LOC116602121	short transient receptor potential channel 4-associated protein isoform X1
+LOC5519444	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC5512832	transient receptor potential cation channel subfamily A member 1
+LOC116602256	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC125559771	transient receptor potential cation channel subfamily A member 1-like
+LOC116605502	LOW QUALITY PROTEIN: transient receptor potential cation channel subfamily A member 1
+LOC116616984	transient receptor potential cation channel subfamily A member 1 isoform X1
+LOC5513881	transient receptor potential cation channel subfamily M member 7 isoform X1
+LOC5510266	transient receptor potential cation channel subfamily A member 1 homolog
+LOC116614762	transient receptor potential cation channel subfamily V member 6
+LOC116611549	transient receptor potential cation channel subfamily A member 1 homolog
+LOC5510332	transient receptor potential cation channel subfamily A member 1-like isoform X1

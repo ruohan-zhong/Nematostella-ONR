@@ -1,0 +1,45 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+2	LOC5505601	0.277634961439589	16.1953727506427	atrial natriuretic peptide receptor 1 isoform X1
+2	LOC5505602	0.218508997429306	11.5681233933162	atrial natriuretic peptide receptor 1 isoform X1
+2	LOC116609247	0.246786632390745	20.5655526992288	atrial natriuretic peptide receptor 1-like isoform X1
+2	LOC5520608	0.136246786632391	10.7969151670951	QRFP-like peptide receptor
+2	LOC5510809	0.254498714652956	13.8817480719794	QRFP-like peptide receptor
+2	LOC5511383	0.568123393316195	19.5372750642674	QRFP-like peptide receptor
+3	LOC5517072	0.945762711864407	54.5762711864407	atrial natriuretic peptide receptor 1
+3	LOC5507622	0.206779661016949	17.2881355932203	atrial natriuretic peptide receptor 1
+3	LOC5507110	0.111864406779661	11.1864406779661	pyroglutamylated RF-amide peptide receptor
+3	LOC5517259	0.223728813559322	18.6440677966102	QRFP-like peptide receptor
+3	LOC5518395	0.986440677966102	46.7796610169492	prolactin-releasing peptide receptor isoform X2
+3	LOC116610354	0.115254237288136	10.8474576271186	tachykinin-like peptides receptor 86C
+3	LOC116609247	0.508474576271186	36.9491525423729	atrial natriuretic peptide receptor 1-like isoform X1
+3	LOC5520608	0.35593220338983	26.1016949152542	QRFP-like peptide receptor
+3	LOC5522331	0.247457627118644	15.2542372881356	QRFP-like peptide receptor
+3	LOC5511383	0.593220338983051	37.6271186440678	QRFP-like peptide receptor
+5	LOC116609247	0.240963855421687	21.6867469879518	atrial natriuretic peptide receptor 1-like isoform X1
+6	LOC5515946	0.141843971631206	14.1843971631206	QRFP-like peptide receptor
+6	LOC116609247	0.276595744680851	24.822695035461	atrial natriuretic peptide receptor 1-like isoform X1
+6	LOC5511383	0.319148936170213	24.113475177305	QRFP-like peptide receptor
+9	LOC5516962	0.166666666666667	12.5	atrial natriuretic peptide receptor 1 isoform X1
+9	LOC116609247	0.208333333333333	18.0555555555556	atrial natriuretic peptide receptor 1-like isoform X1
+9	LOC5522365	0.125	12.5	LOW QUALITY PROTEIN: QRFP-like peptide receptor
+13	LOC5507623	0.133333333333333	11.1111111111111	atrial natriuretic peptide receptor 1
+11	LOC5518267	0.145833333333333	12.5	tachykinin-like peptides receptor 86C
+11	LOC5505602	0.125	12.5	atrial natriuretic peptide receptor 1 isoform X1
+11	LOC116609247	0.125	12.5	atrial natriuretic peptide receptor 1-like isoform X1
+11	LOC125556688	0.125	12.5	QRFP-like peptide receptor
+11	LOC5520608	0.145833333333333	12.5	QRFP-like peptide receptor
+11	LOC5510435	1.3125	66.6666666666667	tachykinin-like peptides receptor 86C
+11	LOC5501032	0.395833333333333	35.4166666666667	QRFP-like peptide receptor
+11	LOC5511383	0.229166666666667	16.6666666666667	QRFP-like peptide receptor
+12	LOC5514441	0.229166666666667	18.75	QRFP-like peptide receptor
+12	LOC5515494	0.3125	27.0833333333333	QRFP-like peptide receptor
+12	LOC116620010	0.3125	25	QRFP-like peptide receptor
+12	LOC116609404	0.166666666666667	10.4166666666667	QRFP-like peptide receptor isoform X1
+12	LOC5505601	0.3125	18.75	atrial natriuretic peptide receptor 1 isoform X1
+12	LOC5522331	0.416666666666667	25	QRFP-like peptide receptor
+12	LOC5511383	0.3125	20.8333333333333	QRFP-like peptide receptor
+14	LOC5516962	0.568181818181818	40.9090909090909	atrial natriuretic peptide receptor 1 isoform X1
+14	LOC116604958	0.295454545454545	25	QRFP-like peptide receptor
+14	LOC5518395	0.272727272727273	25	prolactin-releasing peptide receptor isoform X2
+14	LOC5505602	0.5	34.0909090909091	atrial natriuretic peptide receptor 1 isoform X1
+14	LOC116609247	0.704545454545455	40.9090909090909	atrial natriuretic peptide receptor 1-like isoform X1

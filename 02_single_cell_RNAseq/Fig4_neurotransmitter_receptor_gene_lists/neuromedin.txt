@@ -1,0 +1,14 @@
+LOC5514466	neuromedin-K receptor
+LOC116619534	neuromedin-U receptor 2-like
+LOC5514298	neuromedin-U receptor 2
+LOC5507174	neuromedin-K receptor
+LOC5514242	neuromedin-U receptor 2
+LOC5520872	neuromedin-K receptor
+LOC125570168	neuromedin-U receptor 2-like
+LOC5507093	neuromedin-U receptor 2
+LOC5515465	neuromedin-U receptor 2
+LOC5509522	neuromedin-K receptor
+LOC116617387	neuromedin-U receptor 1
+LOC5519305	neuromedin-U receptor 2
+LOC5510274	neuromedin-U receptor 2-like
+LOC5506981	neuromedin-K receptor isoform X2

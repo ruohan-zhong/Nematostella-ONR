@@ -1,0 +1,84 @@
+LOC5521842	atrial natriuretic peptide receptor 1
+LOC5517072	atrial natriuretic peptide receptor 1
+LOC5507623	atrial natriuretic peptide receptor 1
+LOC5507622	atrial natriuretic peptide receptor 1
+LOC5516962	atrial natriuretic peptide receptor 1 isoform X1
+LOC5507631	atrial natriuretic peptide receptor 1 isoform X1
+LOC5505601	atrial natriuretic peptide receptor 1 isoform X1
+LOC5505602	atrial natriuretic peptide receptor 1 isoform X1
+LOC125557537	atrial natriuretic peptide receptor 1-like
+LOC116609247	atrial natriuretic peptide receptor 1-like isoform X1
+LOC125556712	atrial natriuretic peptide receptor 2-like
+LOC125556736	LOW QUALITY PROTEIN: atrial natriuretic peptide receptor 1-like
+LOC116613502	LOW QUALITY PROTEIN: atrial natriuretic peptide receptor 3-like
+LOC5522365	LOW QUALITY PROTEIN: QRFP-like peptide receptor
+LOC5513254	prolactin-releasing peptide receptor
+LOC5518152	prolactin-releasing peptide receptor
+LOC5512796	prolactin-releasing peptide receptor
+LOC5510298	prolactin-releasing peptide receptor
+LOC5522329	prolactin-releasing peptide receptor
+LOC5518395	prolactin-releasing peptide receptor isoform X2
+LOC5519848	putative insulin-like peptide receptor
+LOC5520466	pyroglutamylated RF-amide peptide receptor
+LOC5514829	pyroglutamylated RF-amide peptide receptor
+LOC5516984	pyroglutamylated RF-amide peptide receptor
+LOC5508723	pyroglutamylated RF-amide peptide receptor
+LOC5507110	pyroglutamylated RF-amide peptide receptor
+LOC5516424	pyroglutamylated RF-amide peptide receptor
+LOC5510590	pyroglutamylated RF-amide peptide receptor
+LOC5506405	pyroglutamylated RF-amide peptide receptor
+LOC5515257	pyroglutamylated RF-amide peptide receptor isoform X1
+LOC116604731	pyroglutamylated RF-amide peptide receptor-like
+LOC116611452	pyroglutamylated RF-amide peptide receptor-like
+LOC5519074	QRFP-like peptide receptor
+LOC5520386	QRFP-like peptide receptor
+LOC5520356	QRFP-like peptide receptor
+LOC5517482	QRFP-like peptide receptor
+LOC5515946	QRFP-like peptide receptor
+LOC5514441	QRFP-like peptide receptor
+LOC5515494	QRFP-like peptide receptor
+LOC116620019	QRFP-like peptide receptor
+LOC116620010	QRFP-like peptide receptor
+LOC116603568	QRFP-like peptide receptor
+LOC5511571	QRFP-like peptide receptor
+LOC5511596	QRFP-like peptide receptor
+LOC5511590	QRFP-like peptide receptor
+LOC116617840	QRFP-like peptide receptor
+LOC5516090	QRFP-like peptide receptor
+LOC5513953	QRFP-like peptide receptor
+LOC5518159	QRFP-like peptide receptor
+LOC116604958	QRFP-like peptide receptor
+LOC116602317	QRFP-like peptide receptor
+LOC5509779	QRFP-like peptide receptor
+LOC5501356	QRFP-like peptide receptor
+LOC5503866	QRFP-like peptide receptor
+LOC5496126	QRFP-like peptide receptor
+LOC5517259	QRFP-like peptide receptor
+LOC5519250	QRFP-like peptide receptor
+LOC5518559	QRFP-like peptide receptor
+LOC5500530	QRFP-like peptide receptor
+LOC125556688	QRFP-like peptide receptor
+LOC5520608	QRFP-like peptide receptor
+LOC5520175	QRFP-like peptide receptor
+LOC5500417	QRFP-like peptide receptor
+LOC116610681	QRFP-like peptide receptor
+LOC5501032	QRFP-like peptide receptor
+LOC5510809	QRFP-like peptide receptor
+LOC5522331	QRFP-like peptide receptor
+LOC5511383	QRFP-like peptide receptor
+LOC5511384	QRFP-like peptide receptor
+LOC5503438	QRFP-like peptide receptor
+LOC5512955	QRFP-like peptide receptor
+LOC116609404	QRFP-like peptide receptor isoform X1
+LOC5520129	QRFP-like peptide receptor isoform X2
+LOC116601156	tachykinin-like peptides receptor 86C
+LOC5518267	tachykinin-like peptides receptor 86C
+LOC5513727	tachykinin-like peptides receptor 86C
+LOC5516152	tachykinin-like peptides receptor 86C
+LOC5509954	tachykinin-like peptides receptor 86C
+LOC5518477	tachykinin-like peptides receptor 86C
+LOC116610354	tachykinin-like peptides receptor 86C
+LOC125557587	tachykinin-like peptides receptor 86C
+LOC5501703	tachykinin-like peptides receptor 86C
+LOC5510435	tachykinin-like peptides receptor 86C
+LOC116616900	tachykinin-like peptides receptor 86C isoform X1

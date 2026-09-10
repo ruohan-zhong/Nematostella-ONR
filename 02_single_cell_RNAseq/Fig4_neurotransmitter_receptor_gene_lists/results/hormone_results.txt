@@ -1,0 +1,12 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+2	LOC116601924	0.419023136246787	22.879177377892	lutropin-choriogonadotropic hormone receptor
+3	LOC116601924	1.07118644067797	54.9152542372881	lutropin-choriogonadotropic hormone receptor
+6	LOC116601924	0.411347517730496	32.6241134751773	lutropin-choriogonadotropic hormone receptor
+9	LOC116601924	0.152777777777778	11.1111111111111	lutropin-choriogonadotropic hormone receptor
+13	LOC116603712	0.155555555555556	15.5555555555556	melanocyte-stimulating hormone receptor
+11	LOC116603712	0.208333333333333	18.75	melanocyte-stimulating hormone receptor
+11	LOC116604117	0.291666666666667	27.0833333333333	adrenocorticotropic hormone receptor-like
+12	LOC116603712	0.1875	16.6666666666667	melanocyte-stimulating hormone receptor
+12	LOC5515179	0.395833333333333	37.5	lutropin-choriogonadotropic hormone receptor isoform X1
+12	LOC116601924	0.145833333333333	14.5833333333333	lutropin-choriogonadotropic hormone receptor
+14	LOC116603712	0.204545454545455	20.4545454545455	melanocyte-stimulating hormone receptor

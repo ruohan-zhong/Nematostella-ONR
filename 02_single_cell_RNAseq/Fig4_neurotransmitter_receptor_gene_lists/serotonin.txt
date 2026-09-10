@@ -1,0 +1,39 @@
+LOC5520391	5-hydroxytryptamine receptor 6
+LOC5512321	5-hydroxytryptamine receptor 4
+LOC5515529	5-hydroxytryptamine receptor 1A
+LOC5514302	5-hydroxytryptamine receptor 2A
+LOC5521209	5-hydroxytryptamine receptor 1F
+LOC5514083	5-hydroxytryptamine receptor 7
+LOC5508510	5-hydroxytryptamine receptor 1D
+LOC125561219	5-hydroxytryptamine receptor 1D-like
+LOC5513623	5-hydroxytryptamine receptor 6
+LOC5519955	5-hydroxytryptamine receptor 6
+LOC5518717	5-hydroxytryptamine receptor 1A
+LOC5514265	5-hydroxytryptamine receptor 6
+LOC5507570	5-hydroxytryptamine receptor 1A
+LOC116614797	5-hydroxytryptamine receptor 1A
+LOC5519577	5-hydroxytryptamine receptor 6
+LOC5516646	5-hydroxytryptamine receptor 1A
+LOC5503615	5-hydroxytryptamine receptor 1D
+LOC5509152	5-hydroxytryptamine receptor 1F
+LOC125563106	5-hydroxytryptamine receptor 1B-like
+LOC5517683	5-hydroxytryptamine receptor 1B
+LOC5519891	5-hydroxytryptamine receptor 1
+LOC5515174	5-hydroxytryptamine receptor 1A
+LOC116611525	5-hydroxytryptamine receptor 6-like
+LOC116609575	5-hydroxytryptamine receptor 7-like
+LOC5507022	5-hydroxytryptamine receptor 2B isoform X1
+LOC5520835	5-hydroxytryptamine receptor-like
+LOC5520865	5-hydroxytryptamine receptor 2C
+LOC5520783	5-hydroxytryptamine receptor 1A-beta
+LOC125568395	5-hydroxytryptamine receptor 4-like
+LOC5507442	5-hydroxytryptamine receptor 1A-alpha
+LOC116610381	5-hydroxytryptamine receptor 4-like
+LOC5503812	5-hydroxytryptamine receptor
+LOC116604660	5-hydroxytryptamine receptor 1E
+LOC116609859	5-hydroxytryptamine receptor 1E-like
+LOC5508576	5-hydroxytryptamine receptor 4
+LOC5508170	5-hydroxytryptamine receptor 2A
+LOC5512795	5-hydroxytryptamine receptor 1 isoform X2
+LOC5515686	5-hydroxytryptamine receptor 1D
+LOC5509880	5-hydroxytryptamine receptor 1F

@@ -1,0 +1,31 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+2	LOC5522025	0.125964010282776	10.2827763496144	neuronal acetylcholine receptor subunit alpha-7 isoform X2
+2	LOC5522023	0.215938303341902	15.1670951156812	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+3	LOC5511213	0.155932203389831	12.8813559322034	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+3	LOC5522025	0.464406779661017	34.9152542372881	neuronal acetylcholine receptor subunit alpha-7 isoform X2
+3	LOC5522023	0.240677966101695	18.9830508474576	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+3	LOC5506085	0.48135593220339	37.6271186440678	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+3	LOC5504980	0.220338983050847	15.2542372881356	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+5	LOC5508921	0.156626506024096	15.6626506024096	neuronal acetylcholine receptor subunit alpha-10
+5	LOC5517746	0.22289156626506	17.4698795180723	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+5	LOC5517795	0.198795180722892	15.6626506024096	neuronal acetylcholine receptor subunit alpha-7
+5	LOC5522025	0.710843373493976	39.1566265060241	neuronal acetylcholine receptor subunit alpha-7 isoform X2
+5	LOC5522023	0.120481927710843	10.8433734939759	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+5	LOC5506085	1.10843373493976	48.7951807228916	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+5	LOC5504980	0.192771084337349	13.2530120481928	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+6	LOC5508921	0.212765957446809	15.6028368794326	neuronal acetylcholine receptor subunit alpha-10
+6	LOC5517746	0.482269503546099	39.7163120567376	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+6	LOC5517795	0.624113475177305	47.5177304964539	neuronal acetylcholine receptor subunit alpha-7
+6	LOC5522023	0.191489361702128	18.4397163120567	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+6	LOC5506085	0.673758865248227	50.354609929078	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+6	LOC5504980	1.1063829787234	67.3758865248227	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+9	LOC5522025	0.111111111111111	11.1111111111111	neuronal acetylcholine receptor subunit alpha-7 isoform X2
+9	LOC5521912	0.194444444444444	16.6666666666667	neuronal acetylcholine receptor subunit alpha-3 isoform X1
+9	LOC5506085	0.513888888888889	38.8888888888889	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+9	LOC5504980	0.263888888888889	19.4444444444444	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+13	LOC5506085	0.355555555555556	28.8888888888889	neuronal acetylcholine receptor subunit alpha-10 isoform X1
+12	LOC5513989	0.5	27.0833333333333	neuronal acetylcholine receptor subunit alpha-9-like isoform X1
+12	LOC5522025	0.520833333333333	25	neuronal acetylcholine receptor subunit alpha-7 isoform X2
+12	LOC5522023	1.60416666666667	70.8333333333333	neuronal acetylcholine receptor subunit alpha-7 isoform X1
+14	LOC5521912	0.159090909090909	11.3636363636364	neuronal acetylcholine receptor subunit alpha-3 isoform X1
+14	LOC5522023	0.977272727272727	54.5454545454545	neuronal acetylcholine receptor subunit alpha-7 isoform X1

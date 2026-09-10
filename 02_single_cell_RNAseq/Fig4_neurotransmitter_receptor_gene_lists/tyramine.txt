@@ -1,0 +1,14 @@
+LOC5515720	putative tyramine receptor 2
+LOC5512754	tyramine receptor 1
+LOC5512736	tyramine receptor Ser-2
+LOC5502222	tyramine receptor 1
+LOC5511510	tyramine receptor 1
+LOC5506693	tyramine receptor 1
+LOC5512005	tyramine receptor Ser-2
+LOC5520792	tyramine receptor Ser-2
+LOC5503387	tyramine receptor Ser-2
+LOC5519299	tyramine receptor Ser-2
+LOC5505347	tyramine receptor Ser-2 isoform X1
+LOC5509422	tyramine receptor 1
+LOC5519517	tyramine receptor 1
+LOC125560902	tyramine receptor Ser-2-like isoform X1

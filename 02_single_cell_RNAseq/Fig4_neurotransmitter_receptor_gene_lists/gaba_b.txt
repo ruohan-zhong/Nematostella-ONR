@@ -1,0 +1,11 @@
+LOC5514842	gamma-aminobutyric acid type B receptor subunit 2-like
+LOC5521308	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+LOC5513634	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+LOC5518727	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+LOC5506544	gamma-aminobutyric acid type B receptor subunit 2-like isoform X1
+LOC5512325	uncharacterized protein LOC5512325
+LOC5519734	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+LOC5510617	gamma-aminobutyric acid type B receptor subunit 2 isoform X1
+LOC5519257	gamma-aminobutyric acid type B receptor subunit 2
+LOC5509923	gamma-aminobutyric acid type B receptor subunit 1 isoform X1
+LOC5509896	gamma-aminobutyric acid type B receptor subunit 2 isoform X1

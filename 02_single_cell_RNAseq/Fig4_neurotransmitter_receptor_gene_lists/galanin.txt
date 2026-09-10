@@ -1,0 +1,38 @@
+LOC5519061	galanin receptor type 1
+LOC5515945	galanin receptor 2a
+LOC5514469	galanin receptor type 1
+LOC5514470	galanin receptor 2a
+LOC5514471	galanin receptor type 1
+LOC5518261	galanin receptor type 1
+LOC5517899	galanin receptor type 1
+LOC5517902	galanin receptor 2a
+LOC5516972	galanin receptor 2b
+LOC5512594	galanin receptor type 1
+LOC5513222	galanin receptor type 1
+LOC116602194	galanin receptor 2a
+LOC5522272	galanin receptor 2b
+LOC5522123	galanin receptor 2b
+LOC5501193	galanin receptor type 1
+LOC5517679	galanin receptor 2a
+LOC5511801	galanin receptor type 1
+LOC5515043	galanin receptor 2b-like
+LOC5519929	galanin receptor 2a isoform X1
+LOC125556662	galanin receptor type 1-like isoform X2
+LOC5507988	galanin receptor 2a
+LOC5507994	galanin receptor type 1
+LOC5514906	galanin receptor type 1
+LOC5520871	galanin receptor type 1
+LOC5515262	galanin receptor 2a
+LOC5512684	galanin receptor type 1
+LOC5506053	galanin receptor type 1
+LOC5505762	galanin receptor 2a
+LOC5518454	galanin receptor 2b
+LOC5514710	galanin receptor type 1
+LOC116616361	galanin receptor 2a
+LOC5516914	galanin receptor type 3
+LOC5520668	galanin receptor type 1
+LOC116603303	galanin receptor type 3
+LOC5515617	galanin receptor 2a
+LOC5509265	galanin receptor 2b isoform X1
+LOC5509859	galanin receptor type 1
+LOC116618330	galanin receptor 2a-like

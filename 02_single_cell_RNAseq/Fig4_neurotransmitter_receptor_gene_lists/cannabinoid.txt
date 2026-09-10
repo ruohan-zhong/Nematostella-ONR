@@ -1,0 +1,7 @@
+LOC5514442	cannabinoid receptor 2
+LOC116618424	cannabinoid receptor 1-like
+LOC5505648	cannabinoid receptor 2
+LOC5520779	cannabinoid receptor type 1A
+LOC5511859	CB1 cannabinoid receptor-interacting protein 1
+LOC116609590	cannabinoid receptor 1-like
+LOC116603622	cannabinoid receptor type 1B

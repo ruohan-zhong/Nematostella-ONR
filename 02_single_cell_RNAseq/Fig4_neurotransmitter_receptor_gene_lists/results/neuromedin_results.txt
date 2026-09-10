@@ -1,0 +1,7 @@
+Cluster	Gene	Average_Expression	Percent_Expressed	Description
+3	LOC5519305	0.142372881355932	12.5423728813559	neuromedin-U receptor 2
+3	LOC5506981	0.2	16.6101694915254	neuromedin-K receptor isoform X2
+6	LOC5506981	0.148936170212766	12.7659574468085	neuromedin-K receptor isoform X2
+12	LOC5506981	0.583333333333333	45.8333333333333	neuromedin-K receptor isoform X2
+14	LOC5507093	1.18181818181818	54.5454545454545	neuromedin-U receptor 2
+14	LOC5519305	0.181818181818182	18.1818181818182	neuromedin-U receptor 2

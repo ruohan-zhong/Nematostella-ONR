@@ -1,0 +1,60 @@
+LOC5507500	melatonin-related receptor isoform X1
+LOC125558672	melatonin receptor type 1B-A-like
+LOC5515703	melatonin receptor type 1C
+LOC125556724	melatonin receptor type 1C-like
+LOC116618417	melatonin receptor type 1B-B
+LOC116618483	melatonin receptor type 1B-B-like
+LOC5504090	melatonin receptor type 1B
+LOC5513659	melatonin receptor type 1A-A
+LOC5519966	melatonin receptor type 1B-B
+LOC5509016	LOW QUALITY PROTEIN: melatonin receptor type 1B-B
+LOC116603415	melatonin receptor type 1A
+LOC5517810	melatonin receptor type 1A
+LOC116610347	melatonin receptor type 1A-like
+LOC5517774	melatonin receptor type 1A
+LOC116613858	melatonin receptor type 1B-B
+LOC5514162	melatonin receptor type 1B-A
+LOC5507641	melatonin receptor type 1A
+LOC5506675	melatonin receptor type 1B-B
+LOC5521029	melatonin receptor type 1A
+LOC116611768	melatonin receptor type 1C-like
+LOC5520773	melatonin receptor type 1B-B
+LOC5504188	melatonin receptor type 1A
+LOC5504193	melatonin receptor type 1C
+LOC5510760	melatonin receptor type 1B-B
+LOC5510761	melatonin receptor type 1B-A
+LOC5510762	melatonin receptor type 1C
+LOC5510774	melatonin receptor type 1C
+LOC125570160	melatonin receptor type 1A-like
+LOC5510509	melatonin receptor type 1B-B
+LOC5511695	melatonin receptor type 1B-B
+LOC116621533	melatonin receptor type 1B-B-like
+LOC116613196	melatonin receptor type 1B-B
+LOC5507935	melatonin receptor type 1B-B
+LOC5507925	melatonin receptor type 1B-B
+LOC116616351	melatonin receptor type 1A
+LOC5509504	melatonin receptor type 1B
+LOC5504547	melatonin receptor type 1B
+LOC5521922	melatonin receptor type 1A
+LOC5502826	melatonin-related receptor-like
+LOC5502825	melatonin receptor type 1A
+LOC5517733	melatonin receptor type 1B-B
+LOC5505779	melatonin receptor type 1B-B
+LOC116610950	melatonin receptor type 1B-B
+LOC116613074	melatonin receptor type 1A
+LOC5518428	melatonin receptor type 1B-B
+LOC5517512	melatonin-related receptor
+LOC5517535	melatonin receptor type 1B isoform X2
+LOC5517563	melatonin-related receptor
+LOC5502334	melatonin receptor type 1B-A
+LOC116609816	melatonin receptor type 1B-A-like
+LOC5516898	melatonin-related receptor
+LOC125557397	melatonin receptor type 1A-like
+LOC5520157	melatonin receptor type 1B
+LOC125559075	melatonin-related receptor-like
+LOC5518047	melatonin receptor type 1B-A
+LOC116601638	melatonin receptor type 1A
+LOC5510846	melatonin receptor type 1B-A
+LOC5508054	melatonin-related receptor
+LOC5512711	melatonin receptor type 1A
+LOC5512950	melatonin receptor type 1B-A

@@ -1,0 +1,57 @@
+LOC116614046	parapinopsin
+LOC5520380	rhodopsin, GQ-coupled
+LOC116617585	ultraviolet-sensitive opsin
+LOC116614821	blue-sensitive opsin
+LOC116619304	rhodopsin, GQ-coupled-like
+LOC5514461	melanopsin-A
+LOC5518344	rhodopsin
+LOC116601527	pinopsin-like
+LOC5517968	rhodopsin
+LOC5521331	visual pigment-like receptor peropsin
+LOC5521626	melanopsin
+LOC5507743	melanopsin isoform X1
+LOC5506502	melanopsin-B
+LOC5513657	rhodopsin
+LOC5513231	rhodopsin, GQ-coupled
+LOC5520089	visual pigment-like receptor peropsin isoform X1
+LOC5522135	blue-sensitive opsin isoform X1
+LOC5509007	retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta
+LOC116616161	rhodopsin, GQ-coupled isoform X1
+LOC5506576	rhodopsin, G0-coupled
+LOC5506568	melanopsin isoform X1
+LOC5516642	melanopsin
+LOC5516643	rhodopsin
+LOC116617590	melanopsin
+LOC116611056	melanopsin-B-like
+LOC5504192	visual pigment-like receptor peropsin
+LOC5518995	rhodopsin, GQ-coupled
+LOC125568417	rhodopsin, GQ-coupled-like
+LOC5501704	visual pigment-like receptor peropsin
+LOC5504504	visual pigment-like receptor peropsin
+LOC5515265	melanopsin-A isoform X1
+LOC5516239	rhodopsin, G0-coupled
+LOC5516201	rhodopsin, G0-coupled
+LOC5516200	rhodopsin, G0-coupled
+LOC5511651	melanopsin-B
+LOC5498229	pinopsin
+LOC5517327	pinopsin
+LOC5510999	pinopsin
+LOC5518136	visual pigment-like receptor peropsin
+LOC5513566	melanopsin-B
+LOC5502576	rhodopsin, G0-coupled
+LOC5519253	opsin-VA
+LOC5512498	melanopsin
+LOC5508120	melanopsin
+LOC5505254	rhodopsin, G0-coupled
+LOC5517519	melanopsin-A
+LOC125557325	rhodopsin, GQ-coupled-like
+LOC5506300	melanopsin-like
+LOC5506305	melanopsin-like
+LOC5511312	visual pigment-like receptor peropsin
+LOC125559113	melanopsin-like
+LOC5513830	green-sensitive opsin-1
+LOC116613717	melanopsin-like
+LOC116603295	melanopsin-like
+LOC5515983	visual pigment-like receptor peropsin
+LOC5496605	melanopsin
+LOC5514523	rhodopsin, GQ-coupled

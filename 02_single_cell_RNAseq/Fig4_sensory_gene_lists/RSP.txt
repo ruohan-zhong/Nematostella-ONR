@@ -1,0 +1,14 @@
+LOC5501077	flagellar radial spoke protein 5
+LOC5504870	radial spoke head 1 homolog
+LOC5517101	radial spoke head 1 homolog
+LOC5517187	radial spoke head 1 homolog
+LOC5519103	radial spoke head 1 homolog
+LOC5514815	radial spoke head 1 homolog
+LOC5510994	radial spoke head 1 homolog
+LOC5506732	radial spoke head 10 homolog B
+LOC5501452	radial spoke head 10 homolog B
+LOC5518716	radial spoke head 14 homolog
+LOC5512844	radial spoke head protein 3 homolog
+LOC5520807	radial spoke head protein 4 homolog A isoform X1
+LOC5519448	radial spoke head protein 4 homolog A isoform X1
+LOC116612834	radial spoke head protein 9 homolog

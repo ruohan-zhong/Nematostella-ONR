@@ -1,0 +1,44 @@
+LOC5514418	D(2) dopamine receptor
+LOC5507654	dopamine receptor 2
+LOC5507662	dopamine receptor 2
+LOC125561018	dopamine receptor 3-like
+LOC5516965	dopamine receptor 4-like
+LOC116602165	D(2) dopamine receptor A-like
+LOC5518735	dopamine receptor 2
+LOC5513079	D(1A) dopamine receptor
+LOC5519698	dopamine receptor 2
+LOC5504826	dopamine receptor 2
+LOC5509167	D(2) dopamine receptor
+LOC116616134	dopamine receptor 2-like
+LOC116616150	dopamine receptor 2-like
+LOC5514168	dopamine receptor 4
+LOC5521530	D(2)-like dopamine receptor
+LOC5515082	dopamine receptor 1
+LOC5508581	D(2) dopamine receptor
+LOC5508611	D(1)-like dopamine receptor isoform X2
+LOC5519860	D(1)-like dopamine receptor
+LOC5519809	dopamine receptor 2
+LOC5521027	D(2) dopamine receptor
+LOC5520880	D(1B) dopamine receptor
+LOC5520881	D(1)-like dopamine receptor
+LOC116612837	D(2) dopamine receptor A
+LOC116613512	dopamine receptor 4
+LOC5505699	D(1C) dopamine receptor
+LOC5515477	dopamine receptor 2
+LOC5506656	dopamine receptor 2
+LOC5506626	dopamine receptor 2
+LOC5498333	dopamine receptor 2
+LOC5506608	dopamine receptor 2
+LOC116603043	dopamine receptor 4
+LOC116617609	D(2) dopamine receptor-like
+LOC116603075	dopamine receptor 1
+LOC5518471	D(2) dopamine receptor A
+LOC5508636	D(2)-like dopamine receptor
+LOC5510198	D(5)-like dopamine receptor
+LOC5513361	D(2)-like dopamine receptor
+LOC5519427	dopamine receptor 1
+LOC5519510	dopamine receptor 2
+LOC5508066	dopamine receptor 2
+LOC5504204	dopamine receptor 2
+LOC5510020	D(1A) dopamine receptor isoform X1
+LOC125556658	D(2) dopamine receptor-like
