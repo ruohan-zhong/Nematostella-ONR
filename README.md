@@ -4,7 +4,7 @@ Analysis code and supporting files for:
 
 **Morphological, molecular, and behavioral characterization of a ganglion-like oral nerve ring in the sea anemone *Nematostella vectensis***  
 Zhong R, Seidel CW, Klompen AML, Gibson MC  
-*Nature Communications* · [Article DOI] · [Zenodo code archive]
+*Nature Communications* · [DOI] · [Zenodo]
 
 ## Repository contents
 
