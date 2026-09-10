@@ -2,9 +2,11 @@
 
 Code and analysis files associated with:
 
-**Morphological, molecular, and behavioral characterization of a ganglion-like oral nerve ring in the sea anemone Nematostella vectensis**
+Zhong R, Seidel CW, Klompen AML, Gibson MC.  
+*Morphological, molecular, and behavioral characterization of a ganglion-like oral nerve ring in the sea anemone Nematostella vectensis.*  
+Nature Communications. [publication DOI]
 
-Ruohan Zhong, Chris W. Seidel, Anna M.L. Klompen, and Matthew C. Gibson
+Archived code release: [Zenodo DOI]
 
 This repository contains custom analysis and figure-generation code used in the study, together with small input files required for the analyses.
 
@@ -35,27 +37,3 @@ Sequencing data are available through GEO:
 The processed single-cell Seurat object, `nv_oral_seurat.RDS`, is provided with the single-cell RNA-seq dataset and is not included in this repository.
 
 Additional source data and imaging data associated with the study are available through the Stowers Original Data Repository (ODR).
-
-## Reference genome
-
-RNA-seq analyses used the *Nematostella vectensis* jaNemVect1.1 reference genome assembly:
-
-**NCBI accession: GCF_932526225.1**
-
-## Running the analyses
-
-Scripts are organized by analysis type and figure. Small gene lists and figure input files are included in the corresponding analysis directories.
-
-Large sequencing datasets and processed objects should be downloaded from the associated data repositories as needed.
-
-## Citation
-
-If you use this code, please cite the associated publication:
-
-Zhong R, Seidel CW, Klompen AML, Gibson MC.  
-*Morphological, molecular, and behavioral characterization of a ganglion-like oral nerve ring in the sea anemone Nematostella vectensis.*  
-Nature Communications. [publication DOI to be added]
-
-Archived code release:
-
-[Zenodo DOI to be added]
