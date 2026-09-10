@@ -1,0 +1,28 @@
+,fname,state,cell_count,area,region,region_area,count_density,area_density
+0,Data/projections\1_juvenile1_oral_Max.tif,mouth,118,1595.295,mouth_area,54144.10170000001,0.002179369,0.029463874
+1,Data/projections\1_juvenile1_oral_Max.tif,ring,238,7571.385900000001,ring_area,49951.2663,0.004764644,0.1515754546546901
+2,Data/projections\1_juvenile1_oral_Max.tif,tentacles,868,15316.200900000002,tentacle_area,253588.30380000002,0.003422871,0.0603979
+3,Data/projections\2_juvenile5_oral001_Max.tif,mouth,70,939.0654000000001,mouth_area,23895.0972,0.002929471,0.039299501
+4,Data/projections\2_juvenile5_oral001_Max.tif,ring,219,7518.735900000001,ring_area,46246.07520000001,0.004735537,0.16258105941928666
+5,Data/projections\2_juvenile5_oral001_Max.tif,tentacles,1139,18274.183200000003,tentacle_area,216373.1778,0.005264054,0.084456786
+6,Data/projections\3_juvenile6_oral001_Max.tif,mouth,89,1151.7714,mouth_area,42293.534400000004,0.002104341,0.027232800860454924
+7,Data/projections\3_juvenile6_oral001_Max.tif,ring,237,7504.309800000001,ring_area,47623.083300000006,0.004976578,0.15757715124673585
+8,Data/projections\3_juvenile6_oral001_Max.tif,tentacles,972,17352.1764,tentacle_area,251298.02880000003,0.003867917,0.069050189
+9,Data/projections\4_R5-3_juvenile 1_oral_Max.tif,mouth,206,3479.7438,mouth_area,74174.26770000001,0.002777243,0.046913086
+10,Data/projections\4_R5-3_juvenile 1_oral_Max.tif,ring,379,13398.6879,ring_area,83276.505,0.004551104,0.16089397483720047
+11,Data/projections\4_R5-3_juvenile 1_oral_Max.tif,tentacles,831,15798.474900000001,tentacle_area,252991.25280000002,0.003284699,0.062446724
+12,Data/projections\5_animal1_oral_MAX.tif,mouth,152,2510.1414000000004,mouth_area,51098.93100000001,0.002974622,0.049123169
+13,Data/projections\5_animal1_oral_MAX.tif,ring,369,10220.418000000001,ring_area,68422.1499,0.00539299,0.14937294450608896
+14,Data/projections\5_animal1_oral_MAX.tif,tentacles,851,14017.325400000002,tentacle_area,234124.9677,0.003634811,0.059871126
+15,Data/projections\6_animal2_oral_MAX.tif,mouth,108,1875.3930000000003,mouth_area,57359.5425,0.00188286,0.032695397
+16,Data/projections\6_animal2_oral_MAX.tif,ring,411,9761.625900000001,ring_area,71120.67300000001,0.00577891,0.137254408
+17,Data/projections\6_animal2_oral_MAX.tif,tentacles,599,9978.3333,tentacle_area,265151.2968,0.002259088,0.037632602293197606
+18,Data/projections\7_juvenile2_oral001_MAX.tif,mouth,137,1964.3715000000002,mouth_area,58924.0899,0.002325025,0.033337324400491086
+19,Data/projections\7_juvenile2_oral001_MAX.tif,ring,272,8913.750300000002,ring_area,62512.398,0.004351137,0.14259171916585253
+20,Data/projections\7_juvenile2_oral001_MAX.tif,tentacles,774,13355.4096,tentacle_area,239368.06530000002,0.003233514,0.05579445
+21,Data/projections\8_juvenile3_oral001_MAX.tif,mouth,146,2385.045,mouth_area,55330.306200000006,0.002638699,0.043105581
+22,Data/projections\8_juvenile3_oral001_MAX.tif,ring,288,10800.094500000001,ring_area,70345.0332,0.004094106,0.15353030638700446
+23,Data/projections\8_juvenile3_oral001_MAX.tif,tentacles,755,13899.915900000002,tentacle_area,232478.07570000002,0.003247618,0.059790223
+24,Data/projections\9_animal2_oral_MAX.tif,mouth,132,2461.5981,mouth_area,64575.225000000006,0.002044128,0.038119853
+25,Data/projections\9_animal2_oral_MAX.tif,ring,361,12063.589200000002,ring_area,75709.8576,0.004768203,0.15933974230589495
+26,Data/projections\9_animal2_oral_MAX.tif,tentacles,774,14815.4994,tentacle_area,260364.14820000003,0.00297276,0.056902993374569374
