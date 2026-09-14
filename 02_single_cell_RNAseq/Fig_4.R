@@ -521,7 +521,7 @@ fig4c_tern <- ggtern::ggtern(all_cells, aes(x = E_count, y = I_count, z = M_coun
     tern.panel.grid.major.T = element_line(color = "gray80", linewidth = 0.4),
     tern.panel.grid.major.R = element_line(color = "gray80", linewidth = 0.4),
     tern.panel.grid.minor = element_blank(),
-    tern.axis.ticks.length.major = grid::unit(0.5, "cm"),
+    tern.axis.ticks.length.major = rel(1.0),
     tern.axis.ticks.major.L = element_line(color = "gray80", linewidth = 1),
     tern.axis.ticks.major.T = element_line(color = "gray80", linewidth = 1),
     tern.axis.ticks.major.R = element_line(color = "gray80", linewidth = 1),
