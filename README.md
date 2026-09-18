@@ -12,7 +12,7 @@ Ruohan Zhong, Chris W. Seidel, Anna M.L. Klompen, Matthew C. Gibson
 - `02_single_cell_RNAseq`: Single-cell RNA-seq processing and analyses for Figs. 3, 4, 6a, S3, S5, and S6
 - `03_bulk_RNAseq`: Bulk RNA-seq processing and analysis for Fig. 5c
 - `04_feeding_behavior`: Feeding behavior plotting and statistics for Figs. 6e-f and S8d-f
-- `05_phylogeny`: Phylogenetic analysis for Figs. 5e and S7 
+- `05_phylogeny`: Trimmed GABAAR-like sequence alignment used for Figs. 5e and S7 
 
 ## Data
 
