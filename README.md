@@ -3,7 +3,7 @@
 Analysis code and supporting files for:
 
 **Morphological, molecular, and behavioral characterization of a ganglion-like oral nerve ring in the sea anemone *Nematostella vectensis***  
-Ruohan Zhong, Chris W. Seidel, Anna M.L. Klompen, Matthew C. Gibson
+Ruohan Zhong, Chris W. Seidel, Anna M.L. Klompen, Matthew C. Gibson  
 *Nature Communications*
 
 ## Repository contents
@@ -16,5 +16,5 @@ Ruohan Zhong, Chris W. Seidel, Anna M.L. Klompen, Matthew C. Gibson
 
 ## Data
 
-- Single-cell RNA-seq: GEO GSE316974
-- Bulk RNA-seq: GEO GSE316975
+- Single-cell RNA-seq: GEO GSE316974  
+- Bulk RNA-seq: GEO GSE316975  
